@@ -1,0 +1,6 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git bash é um terminal extendido que serve para otimizar o uso do Github.
+
+Alguns Comandos no Gitbash:
+git status - visualiza os itens add na pasta
+git add. ou git add -a
